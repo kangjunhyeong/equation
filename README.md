@@ -140,6 +140,6 @@ $$
 ![image](https://github.com/kangjunhyeong/equation/assets/144297425/28539024-856c-4953-a420-e42a5a39fbe1)  
 
 $$
-\ x(t) = \begin{bmatrix} x_1(t) \\ x_2(t) \\ x_3(t) \\ x_4(t) \end{bmatrix} \
+\[ X(t) = \begin{bmatrix} x_1(t) & x_2(t) & x_3(t) & x_4(t) \end{bmatrix}^T \]
 $$
 
