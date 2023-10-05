@@ -48,4 +48,13 @@ $$
 
 $$
 \ \frac{dx_1(t)}{dt} = \frac{1}{C} (-x_2(t) + u(t)) \
+$$  
+
+KVL에 의하면  
+$$
+\ L \frac{dx_2(t)}{dt} + Rx_2(t) - x_1(t) = 0 \
+$$  
+
+$$
+\ \frac{dx_2(t)}{dt} = \frac{1}{L} (x_1(t) - Rx_2(t)) \
 $$
