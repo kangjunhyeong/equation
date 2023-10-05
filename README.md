@@ -120,3 +120,13 @@ n-th order
 $$
 \ x(t) = exp(At)x(0) + \int_{0}^{t} exp[A(t - \tau)Bu(\tau) d\tau \
 $$  
+
+이 식을 라플라스 변환을 해주면  
+
+$$
+\ x(s) = (sI - A)^{-1}x(0) + (sI - A)^{-1}BU(s) \
+$$  
+
+$$
+\Phi\(s)=[sI-A]^{-1}
+$$
