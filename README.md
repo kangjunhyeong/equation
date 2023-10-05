@@ -16,5 +16,8 @@ $$
 위와 같이 state를 지정하면 x1과 x2에 대한 식으로 다음과 같이 변경이 가능하다.  
 
 $$
-\ \frac{dx_1(t)}{dt} = x_2(t) \
+\ \frac{dx_1(t)}{dt} = x_2(t) \  
+\[ \frac{dx_2(t)}{dt} = -\frac{b}{M}x_2(t) - \frac{k}{M}x_1(t) + \frac{r(t)}{M} \]
+
 $$
+
