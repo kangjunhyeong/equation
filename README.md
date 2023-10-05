@@ -145,7 +145,7 @@ x_2(t) \\
 x_3(t) \\
 x_4(t) \end{bmatrix} \ = \begin{bmatrix} p(t) \\
 q(t) \\
-p(t) \\
-q(t) \end{bmatrix} \
+\dot{p}(t) \\
+\dot{q}(t) \end{bmatrix} \
 $$
 
