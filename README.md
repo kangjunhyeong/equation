@@ -17,7 +17,8 @@ $$
 
 $$
 \ \frac{dx_1(t)}{dt} = x_2(t) \  
-\[ \frac{dx_2(t)}{dt} = -\frac{b}{M}x_2(t) - \frac{k}{M}x_1(t) + \frac{r(t)}{M} \]
+
+\ \frac{dx_2(t)}{dt} = -\frac{b}{M}x_2(t) - \frac{k}{M}x_1(t) + \frac{r(t)}{M} \
 
 $$
 
