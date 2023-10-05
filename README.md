@@ -1,2 +1,1 @@
-# equation
-State Space Equation
+# State Space Equation
