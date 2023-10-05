@@ -137,6 +137,9 @@ $$
 
 ## 3. <Example 3.1>  
 ![image](https://github.com/kangjunhyeong/equation/assets/144297425/93d9dd2a-15f8-48ba-9fa1-c400ff79bc1f)  
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/28539024-856c-4953-a420-e42a5a39fbe1)  
 
-
+$$
+\ x(t) = \begin{bmatrix} x_1(t) \\ x_2(t) \\ x_3(t) \\ x_4(t) \end{bmatrix} \
+$$
 
