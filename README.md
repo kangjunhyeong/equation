@@ -129,4 +129,9 @@ $$
 
 $$
 \Phi\(s)=[sI-A]^{-1}
-$$
+$$  
+
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/9dd55fd1-9707-45ef-8c0a-d5e7c76feb27)  
+
+왼쪽 부분을 State transition matrix라고 한다.
+
