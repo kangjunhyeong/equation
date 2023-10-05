@@ -147,5 +147,13 @@ x_4(t) \end{bmatrix} \ = \begin{bmatrix} p(t) \\
 q(t) \\
 \dot{p}(t) \\
 \dot{q}(t) \end{bmatrix} \
-$$
+$$  
 
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/68fe89a7-4747-4c5f-9c19-3554e405c440)  
+
+$$
+\ x(t) = Ax(t) + Bu(t) \  
+$$  
+
+와 같은 꼴의 식이 나오고  
+이 4개의 연립방정식에에 k1, k2, b1, b2, M1, M2 에 값을 대입하여 풀면 됩니다.
