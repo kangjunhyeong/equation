@@ -6,9 +6,5 @@ System안에 States를 정의해서 문제를 푸는 것이 핵심이다.
 
 ![image](https://github.com/kangjunhyeong/equation/assets/144297425/73793897-5f27-4cbd-b499-bd8ddd458384)  
 
-$$
-\begin{aligned}
-M&frac{d^2&y(x)}{dt^2}&=ax^2+by+c\\
-g(x)&=Ax^4+By+c
-\end{aligned}
-$$
+\[ m \ddot{x}(t) + b \dot{x}(t) + kx(t) = F(t) \]
+
