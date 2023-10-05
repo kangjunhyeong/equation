@@ -43,6 +43,9 @@ $$
 KCL에 의하면  
 
 $$
-\ u(t) = C \frac{dx_1(t)}{dt} + x_2(t) \  -->  \ \frac{dx_1(t)}{dt} = \frac{1}{C} (-x_2(t) + u(t)) \
+\ u(t) = C \frac{dx_1(t)}{dt} + x_2(t) \
+$$
 
+$$
+\ \frac{dx_1(t)}{dt} = \frac{1}{C} (-x_2(t) + u(t)) \
 $$
