@@ -7,5 +7,8 @@ System안에 States를 정의해서 문제를 푸는 것이 핵심이다.
 ![image](https://github.com/kangjunhyeong/equation/assets/144297425/73793897-5f27-4cbd-b499-bd8ddd458384)  
 $$
 \ M \frac{d^2y(t)}{dt^2} + b \frac{dy(t)}{dt} + ky(t) = r(t) \
-$$
+$$  
 
+$$
+\[ x_1(t) = y(t) \] ,\[ x_2(t) = frac{dy(t)}{dt} \]
+$$
