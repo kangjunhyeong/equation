@@ -100,3 +100,23 @@ $$
 이렇게 식이 바뀌고 왼쪽 부분은 초기 상태가 $\{\\Phi\(t)}\$ 값에 의해서 바뀐 결과물이 되고 오른쪽 텀은 input이 $\{\\Phi\(t)}\$ 라는 것에 의해 바뀐 결과물이 됩니다. 왼쪽 값의 경우 input이 없을 때 초기 상태에서 결과가 어떻게 바뀌게 되는지를 의미하고 물리적인 의미를 갖게 됩니다. 이와 같이 의미 있는 수식이 됩니다.  
 
 ## State vector  
+보통 다차미분방정식이므로 state로 나타내면 vector형식으로 나타난다.  
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/7d10a110-864b-439c-8855-fef3497c72a4)  
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/8f00b4fb-1fba-4a9a-adac-a5e71c970e25)  
+위 첫번째 식에서 state x를 미분한 것은 state vector에 A행렬을 곱한것 더하기 input vector에 B행렬을 곱한 것과 같다.  
+그래서 다음과 같이 표현할 수 있다.  
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/1b7a561c-34d3-442e-9c9b-46907ea5e9c1)  
+그래서 오른쪽 두 식을 합치면 State Space Equation이다.
+
+## State transition matrix  
+1st order  
+
+$$
+\ x(t) = e^{at}x(0) + \int_{0}^{t} e^{a(t - \tau)}bu(\tau) d\tau \
+$$  
+
+n-th order  
+
+$$
+\ x(t) = exp(At)x(0) + \int_{0}^{t} exp[A(t - \tau)Bu(\tau) d\tau \
+$$  
