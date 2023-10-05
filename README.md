@@ -135,3 +135,8 @@ $$
 
 왼쪽 부분을 State transition matrix라고 한다.
 
+## 3. <Example 3.1>  
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/93d9dd2a-15f8-48ba-9fa1-c400ff79bc1f)  
+
+
+
