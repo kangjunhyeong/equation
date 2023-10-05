@@ -86,3 +86,9 @@ $$
 $$
 \ X(s) = \frac{1}{s-a}x(0) + \frac{1}{s-a}bU(s) \
 $$
+
+인버스라플라스를 해주면  
+
+$$
+\ x(t) = e^{at}x(0) + \int_{0}^{t} e^{a(t - \tau)}bu(\tau) d\tau \
+$$
