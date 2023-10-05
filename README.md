@@ -93,5 +93,8 @@ $$
 \ x(t) = e^{at}x(0) + \int_{0}^{t} e^{a(t - \tau)}bu(\tau) d\tau \
 $$  
 
-이 식에서 $e^{at}\$ 를 $\{\\Phi\(t)}\$ 로 바꿔주면
+이 식에서 $e^{at}\$ 를 $\{\\Phi\(t)}\$ 로 바꿔주면  
 
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/5aeba743-048a-4294-8c1d-df8f40956375)  
+
+이렇게 식이 바뀌고 왼쪽 부분은 초기 상태가 $\{\\Phi\(t)}\$ 값에 의해서 바뀐 결과물이 되고 오른쪽 텀은 input이 $\{\\Phi\(t)}\$ 라는 것에 의해 바뀐 결과물이 됩니다.
