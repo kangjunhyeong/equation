@@ -30,4 +30,13 @@ $$
 \ y(t)=x_1(t)
 $$
  
-이와 같이 2차미분방정식이 2개의 1차미분방정식으로 바뀐다.
+이와 같이 2차미분방정식이 2개의 1차미분방정식으로 바뀐다.  
+
+## 2. RLC circuit system  
+
+![image](https://github.com/kangjunhyeong/equation/assets/144297425/d5a3b351-3c2e-4c53-87fc-5f9635550985)  
+
+$$
+\ x_1(t) = v_c(t) \ , \ x_2(t) = i_L(t) \
+$$
+
